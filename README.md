@@ -1,3 +1,3 @@
 # RXSwift
 
-A repo going through teh use cases of RXSwift.
+A repo going through the use cases of RXSwift.
